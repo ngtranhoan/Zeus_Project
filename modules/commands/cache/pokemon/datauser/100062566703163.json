@@ -1,0 +1,27 @@
+{
+  "name": "Trần Nguyễn Nam Khánh",
+  "ID": "100062566703163",
+  "pet": [
+    {
+      "name": "Mamoswine",
+      "type": "Ice",
+      "HP": "44.02.2",
+      "Attack": "52.02.6",
+      "Defense": "32.01.6",
+      "Speed": "32.01.6",
+      "skill": [
+        "Oblivious",
+        "Snow Cloak",
+        "Thick Fat"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/473.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 1,
+    "lose": 0,
+    "draw": 0
+  }
+}

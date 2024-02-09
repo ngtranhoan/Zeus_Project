@@ -1,0 +1,37 @@
+{
+  "name": "Dương Công Nam",
+  "ID": "100047874375055",
+  "mainROD": "Light Iron Harpoon",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Shallow Twisty Bridges – Twisty Bridges"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Arctic Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/fJwcFHQ.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Light Iron Harpoon",
+      "price": 400,
+      "durability": 0,
+      "countdown": 300,
+      "countdownData": 1655551047401,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    }
+  ],
+  "timeRegister": "6/16/2022, 7:44:01 AM"
+}

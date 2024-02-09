@@ -1,0 +1,246 @@
+{
+    "fishingrod": {
+        "rodType": 6,
+        "enchantRod": {},
+        "rodName": "Diamond fishing rod",
+        "cooldownTime": 10,
+        "durabilityDefault": 1200,
+        "durability": 470,
+        "moneyFix": 617,
+        "rateBroken": [
+            10,
+            250
+        ]
+    },
+    "inventory": [
+        {
+            "name": "Yellow Perch",
+            "rarity": "Common",
+            "price": 30,
+            "size": [
+                33,
+                38
+            ],
+            "time": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "name": "Black Bass",
+            "rarity": "Very Common",
+            "price": 40,
+            "size": [
+                50,
+                100
+            ],
+            "time": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "name": "Frog",
+            "rarity": "Common",
+            "price": 12,
+            "size": [
+                12,
+                14
+            ],
+            "time": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "name": "Sea Bass",
+            "rarity": "Very Common",
+            "price": 40,
+            "size": [
+                90,
+                110
+            ],
+            "time": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "name": "Bitterling",
+            "rarity": "Common",
+            "price": 90,
+            "size": [
+                10,
+                12
+            ],
+            "time": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "name": "Sea Bass",
+            "rarity": "Very Common",
+            "price": 40,
+            "size": [
+                90,
+                110
+            ],
+            "time": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        }
+    ],
+    "lastTimeFishing": 1656395150,
+    "point": 252,
+    "totalMoney": 0,
+    "totalCatch": 6
+}

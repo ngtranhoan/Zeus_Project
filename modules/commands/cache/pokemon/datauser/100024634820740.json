@@ -1,0 +1,40 @@
+{
+  "name": "Đinh Nhật",
+  "ID": "100024634820740",
+  "pet": [
+    {
+      "name": "Seviper",
+      "type": "Poison",
+      "HP": "109.5",
+      "Attack": "150.0",
+      "Defense": "90.0",
+      "Speed": "97.5",
+      "skill": [
+        "Shed Skin",
+        "Infiltrator"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/336.png"
+    },
+    {
+      "name": "Kricketune",
+      "type": "Bug",
+      "HP": "77.0",
+      "Attack": "85.0",
+      "Defense": "51.0",
+      "Speed": "65.0",
+      "skill": [
+        "Swarm",
+        "Technician"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/402.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

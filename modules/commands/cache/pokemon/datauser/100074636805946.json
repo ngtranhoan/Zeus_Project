@@ -1,0 +1,27 @@
+{
+  "name": "Nguyễn Hoàng",
+  "ID": "100074636805946",
+  "pet": [
+    {
+      "name": "Phantump",
+      "type": "Ghost",
+      "HP": "64.5",
+      "Attack": "105.0",
+      "Defense": "72.0",
+      "Speed": "57.0",
+      "skill": [
+        "Natural Cure",
+        "Frisk",
+        "Harvest"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/708.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Bảo Trương",
+  "ID": "100077128012202",
+  "pet": [
+    {
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "HP": "63.0",
+      "Attack": "68.6",
+      "Defense": "68.6",
+      "Speed": "63.0",
+      "coins": "22560.0",
+      "skill": [
+        "Overgrow",
+        "Chlorophyll"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
+    },
+    {
+      "name": "Terrakion",
+      "type": "Rock",
+      "HP": "136.5",
+      "Attack": "193.5",
+      "Defense": "135.0",
+      "Speed": "162.0",
+      "skill": [
+        "Justified"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/639.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

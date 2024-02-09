@@ -1,0 +1,107 @@
+{
+    "total": [
+        {
+            "id": "100024634820740",
+            "count": 126
+        },
+        {
+            "id": "100047769691398",
+            "count": 157
+        },
+        {
+            "id": "100048577998829",
+            "count": 0
+        },
+        {
+            "id": "100049308425884",
+            "count": 70
+        },
+        {
+            "id": "100082131182979",
+            "count": 785
+        },
+        {
+            "id": "100052298717811",
+            "count": 57
+        },
+        {
+            "id": "100051382243072",
+            "count": 30
+        }
+    ],
+    "week": [
+        {
+            "id": "100024634820740",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100047769691398",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100048577998829",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100049308425884",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100082131182979",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100052298717811",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100051382243072",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "day": [
+        {
+            "id": "100024634820740",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100047769691398",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100048577998829",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100049308425884",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100082131182979",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100052298717811",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100051382243072",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "time": 0
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Hoàng Nhân",
+  "ID": "100035203425986",
+  "pet": [
+    {
+      "name": "Basculin",
+      "type": "Water",
+      "HP": "99.7515.6",
+      "Attack": "131.115.6",
+      "Defense": "92.62515.6",
+      "Speed": "139.6515.6",
+      "skill": [
+        "Reckless",
+        "Adaptability",
+        "Mold Breaker"
+      ],
+      "coins": 24000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/550.png"
+    },
+    {
+      "name": "Torterra",
+      "type": "Grass",
+      "HP": "47.5",
+      "Attack": "54.5",
+      "Defense": "52.5",
+      "Speed": "28.0",
+      "skill": [
+        "Overgrow",
+        "Shell Armor"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/389.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 2,
+    "draw": 0
+  }
+}

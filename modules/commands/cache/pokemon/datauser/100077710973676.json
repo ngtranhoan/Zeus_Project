@@ -1,0 +1,56 @@
+{
+  "name": "Rick Sanchez",
+  "ID": "100077710973676",
+  "pet": [
+    {
+      "name": "Sliggoo",
+      "type": "Dragon",
+      "HP": "27.2",
+      "Attack": "30.0",
+      "Defense": "21.2",
+      "Speed": "24.0",
+      "skill": [
+        "Sap Sipper",
+        "Hydration",
+        "Gooey"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/705.png"
+    },
+    {
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "HP": 45,
+      "Attack": 49,
+      "Defense": 49,
+      "Speed": 45,
+      "coins": 18800,
+      "skill": [
+        "Overgrow",
+        "Chlorophyll"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
+    },
+    {
+      "name": "Vivillon",
+      "type": "Bug",
+      "HP": "120.0",
+      "Attack": "78.0",
+      "Defense": "75.0",
+      "Speed": "133.5",
+      "skill": [
+        "Shield Dust",
+        "Compound Eyes",
+        "Friend Guard"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/666.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

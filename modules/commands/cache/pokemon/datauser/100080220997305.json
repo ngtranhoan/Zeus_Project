@@ -1,0 +1,11 @@
+{
+    "name": "Mint's Golden Heart",
+    "ID": "100080220997305",
+    "pet": [],
+    "foods": [],
+    "solo": {
+        "win": 0,
+        "lose": 0,
+        "draw": 0
+    }
+}

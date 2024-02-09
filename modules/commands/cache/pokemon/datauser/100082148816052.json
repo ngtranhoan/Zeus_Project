@@ -1,0 +1,86 @@
+{
+  "name": "Trần Dương",
+  "ID": "100082148816052",
+  "pet": [
+    {
+      "name": "Braviary",
+      "type": "Normal",
+      "HP": "95.0",
+      "Attack": 116.85,
+      "Defense": 71.25,
+      "Speed": 76,
+      "skill": [
+        "Keen Eye",
+        "Sheer Force",
+        "Defiant"
+      ],
+      "coins": 9500,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/628.png"
+    },
+    {
+      "name": "Aurorus",
+      "type": "Rock",
+      "HP": "49.22.46",
+      "Attack": "30.81.54",
+      "Defense": "28.81.44",
+      "Speed": "23.21.16",
+      "skill": [
+        "Refrigerate",
+        "Snow Warning"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/699.png"
+    },
+    {
+      "name": "Drowzee",
+      "type": "Psychic",
+      "HP": "90.0",
+      "Attack": "72.0",
+      "Defense": "67.5",
+      "Speed": "63.0",
+      "skill": [
+        "Insomnia",
+        "Forewarn",
+        "Inner Focus"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/096.png"
+    },
+    {
+      "name": "Azurill",
+      "type": "Normal",
+      "HP": "50.0",
+      "Attack": "20.0",
+      "Defense": "40.0",
+      "Speed": "20.0",
+      "skill": [
+        "Thick Fat",
+        "Huge Power",
+        "Sap Sipper"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/298.png"
+    },
+    {
+      "name": "Kadabra",
+      "type": "Psychic",
+      "HP": "16.0",
+      "Attack": "14.0",
+      "Defense": "12.0",
+      "Speed": "42.0",
+      "skill": [
+        "Synchronize",
+        "Inner Focus",
+        "Magic Guard"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/064.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 1,
+    "lose": 1,
+    "draw": 0
+  }
+}

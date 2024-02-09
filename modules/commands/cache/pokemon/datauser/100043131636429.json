@@ -1,0 +1,69 @@
+{
+  "name": "Phu NhaNgheo",
+  "ID": "100043131636429",
+  "pet": [
+    {
+      "name": "Aurorus",
+      "type": "Rock",
+      "HP": "61.5",
+      "Attack": "38.5",
+      "Defense": "36.0",
+      "Speed": "29.0",
+      "skill": [
+        "Refrigerate",
+        "Snow Warning"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/699.png"
+    },
+    {
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "HP": 45,
+      "Attack": 49,
+      "Defense": 49,
+      "Speed": 45,
+      "coins": 18800,
+      "skill": [
+        "Overgrow",
+        "Chlorophyll"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
+    },
+    {
+      "name": "Sandshrew",
+      "type": "Ground",
+      "HP": "20.0",
+      "Attack": "30.0",
+      "Defense": "34.0",
+      "Speed": "16.0",
+      "skill": [
+        "Sand Veil",
+        "Sand Rush"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/027.png"
+    },
+    {
+      "name": "Steenee",
+      "type": "Grass",
+      "HP": "52.0",
+      "Attack": "40.0",
+      "Defense": "48.0",
+      "Speed": "62.0",
+      "skill": [
+        "Leaf Guard",
+        "Oblivious",
+        "Sweet Veil"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/762.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

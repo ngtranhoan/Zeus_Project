@@ -1,0 +1,29 @@
+{
+  "name": "Hoàng Nhân",
+  "ID": "100035203425986",
+  "mainROD": "Steel Harpoon",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Arctic"
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "Steel Harpoon",
+      "price": 1500,
+      "durability": 10,
+      "countdown": 180,
+      "countdownData": 1655804139352,
+      "image": "https://i.imgur.com/mptiizn.png"
+    },
+    {
+      "name": "Titanium Harpoon",
+      "price": 4000,
+      "durability": 50,
+      "countdown": 150,
+      "countdownData": 1655803981157,
+      "image": "https://i.imgur.com/vgIeC3t.jpg"
+    }
+  ],
+  "timeRegister": "6/21/2022, 12:37:47 PM"
+}

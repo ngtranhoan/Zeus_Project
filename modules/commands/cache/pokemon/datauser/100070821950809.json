@@ -1,0 +1,101 @@
+{
+  "name": "Nguyễn Tín",
+  "ID": "100070821950809",
+  "pet": [
+    {
+      "name": "Grotle",
+      "type": "Grass",
+      "HP": "75.03.75NaN10.4NaNNaN15.6",
+      "Attack": "89.04.45NaN10.4NaNNaN15.6",
+      "Defense": "85.04.25NaN10.4NaNNaN15.6",
+      "Speed": "36.01.8NaN10.4NaNNaN15.6",
+      "skill": [
+        "Overgrow",
+        "Shell Armor"
+      ],
+      "coins": 22667.5625,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/388.png"
+    },
+    {
+      "name": "Braixen",
+      "type": "Fire",
+      "HP": "39.2",
+      "Attack": "39.2",
+      "Defense": "38.6",
+      "Speed": "48.5",
+      "skill": [
+        "Blaze",
+        "Magician"
+      ],
+      "coins": "5700.0",
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/654.png"
+    },
+    {
+      "name": "Houndour",
+      "type": "Dark",
+      "HP": 21.375,
+      "Attack": 28.5,
+      "Defense": 14.25,
+      "Speed": 30.875,
+      "skill": [
+        "Early Bird",
+        "Flash Fire",
+        "Unnerve"
+      ],
+      "coins": 4750,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/228.png"
+    },
+    {
+      "name": "Volcarona",
+      "type": "Bug",
+      "HP": "85.0",
+      "Attack": "60.0",
+      "Defense": "65.0",
+      "Speed": "100.0",
+      "skill": [
+        "Flame Body",
+        "Swarm"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/637.png"
+    },
+    {
+      "name": "Xatu",
+      "type": "Psychic",
+      "HP": "97.5",
+      "Attack": "112.5",
+      "Defense": "105.0",
+      "Speed": "142.5",
+      "skill": [
+        "Synchronize",
+        "Early Bird",
+        "Magic Bounce"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/178.png"
+    }
+  ],
+  "foods": [
+    {
+      "name": "Mud Pie a la Cube",
+      "type": "Ground",
+      "HP": 4,
+      "Attack": 4,
+      "Defense": 4,
+      "Speed": 4
+    },
+    {
+      "name": "Stone Soup a la Cube",
+      "type": "Ground",
+      "HP": 16,
+      "Attack": 16,
+      "Defense": 16,
+      "Speed": 16
+    }
+  ],
+  "solo": {
+    "win": 4,
+    "lose": 2,
+    "draw": 0
+  }
+}

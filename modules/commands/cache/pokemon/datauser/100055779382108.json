@@ -1,0 +1,52 @@
+{
+  "name": "Gia Bảo",
+  "ID": "100055779382108",
+  "pet": [
+    {
+      "name": "Shaymin",
+      "type": "Grass",
+      "HP": "NaN",
+      "Attack": null,
+      "Defense": null,
+      "Speed": null,
+      "skill": [
+        "Natural Cure"
+      ],
+      "coins": 38000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/492.png"
+    },
+    {
+      "name": "Cherrim",
+      "type": "Grass",
+      "HP": "70.0",
+      "Attack": "60.0",
+      "Defense": "70.0",
+      "Speed": "85.0",
+      "skill": [
+        "Flower Gift"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/421.png"
+    },
+    {
+      "name": "Chesnaught",
+      "type": "Grass",
+      "HP": "35.2",
+      "Attack": "42.8",
+      "Defense": "48.8",
+      "Speed": "25.6",
+      "skill": [
+        "Overgrow",
+        "Bulletproof"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/652.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 1,
+    "draw": 0
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Liu Keng",
+  "ID": "100049308425884",
+  "pet": [
+    {
+      "name": "Pichu",
+      "type": "Electric",
+      "HP": "10.0",
+      "Attack": "20.0",
+      "Defense": "7.5",
+      "Speed": "30.0",
+      "skill": [
+        "Static",
+        "Lightning Rod"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/172.png"
+    },
+    {
+      "name": "Amaura",
+      "type": "Rock",
+      "HP": "30.84",
+      "Attack": "23.64",
+      "Defense": "20.04",
+      "Speed": "18.44",
+      "skill": [
+        "Refrigerate",
+        "Snow Warning"
+      ],
+      "coins": 2500,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/698.png"
+    },
+    {
+      "name": "Crabrawler",
+      "type": "Fighting",
+      "HP": "70.5",
+      "Attack": "123.0",
+      "Defense": "85.5",
+      "Speed": "94.5",
+      "skill": [
+        "Hyper Cutter",
+        "Iron Fist",
+        "Anger Point"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/739.png"
+    },
+    {
+      "name": "Bagon",
+      "type": "Dragon",
+      "HP": "45.0",
+      "Attack": "75.0",
+      "Defense": "60.0",
+      "Speed": "50.0",
+      "skill": [
+        "Rock Head",
+        "Sheer Force"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/371.png"
+    },
+    {
+      "name": "Regigigas",
+      "type": "Normal",
+      "HP": 110,
+      "Attack": 160,
+      "Defense": 110,
+      "Speed": 100,
+      "coins": 48000,
+      "skill": [
+        "Slow Start"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/486.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

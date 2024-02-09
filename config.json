@@ -1,0 +1,135 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": false,
+    "autoClean": true,
+    "ownerOnly": false,
+    "adminOnly": false,
+    "privateChat": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Zeus Project",
+    "PREFIX": "/",
+    "OWNER": [
+        "100090458979503"
+    ],
+    "ADMINBOT": [
+        "100090458979503"
+    ],
+    "_api": {
+        "api_game": "https://6821df2e-d4cb-44c6-abb3-185e21d7d2fb.id.repl.co/",
+        "api_images": ""
+    },
+    "api_key": {
+        "key_game": "keypro",
+        "key_images": "keypro"
+    },
+    "tokenFB": [
+        "6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+    ],
+    "configSetupAPI": {
+        "imgLimk_nino": "https://b1e6dbdd-ca69-4644-9ba1-affaefef77e2.id.repl.co/nakano_nino?api_key=keytest"
+    },
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "online": true,
+        "userAgent": "Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/012.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.0 Mobile Safari/533.4 3gpp-gba"
+    },
+    "version": "1.2.15",
+    "cave": {
+        "cooldownTime": 60000
+    },
+    "anti": {
+        "antinamebot": {
+            "status": true
+        }
+    },
+    "daily": {
+        "cooldownTime": 86400000,
+        "rewardCoin": 5000,
+        "rewardExp": 1000,
+        "rewardUsages": 100
+    },
+    "duyet": {
+        "status": true
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "nino": {
+        "API_KEY": "keypro"
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyD_W5uDBBywPyVBgaBmhcF5dp_wff6mUEA"
+    },
+    "tikinfo": {
+        "key": "ClkIv52I"
+    },
+    "tikvideo": {
+        "key": "ClkIv52I"
+    },
+    "tx": {
+        "timeout": 3000,
+        "core": 2,
+        "api_key": "keypro"
+    },
+    "workfish": {
+        "cooldownTime": 30000
+    },
+    "working": {
+        "cooldownTime": 300000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "ảnh": {
+        "API_KEY": "keypro"
+    },
+    "log": {
+        "enable": true
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "cnamebot": {
+        "status": false
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "antinamebot": {
+        "status": true
+    },
+    "checktt": {
+        "maxColumn": 10
+    }
+}
